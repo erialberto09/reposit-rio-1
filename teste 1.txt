@@ -1,1 +1,3 @@
- git config --global user.
+ git config --global user.(email ou nome).
+
+ git commit -m "Primeira versão"
